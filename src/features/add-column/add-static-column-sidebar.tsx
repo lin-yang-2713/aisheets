@@ -34,8 +34,8 @@ export const AddStaticColumnSidebar = component$<SidebarProps>(
       const column: Column = {
         name: name.value,
         type: newType.value,
-        generated: true, //this depends on kind of column type!
         sortable: false,
+        output: null,
       };
 
       closeAddStaticColumnSidebar();
@@ -65,8 +65,8 @@ export const AddStaticColumnSidebar = component$<SidebarProps>(
                 bind:value={name}
               />
 
-              <Select.Root class="h-10 w-48" bind:value={newType}>
-                <Select.Trigger class="h-10 rounded-sm bg-blue-200">
+              <Select.Root bind:value={newType}>
+                <Select.Trigger>
                   <Select.DisplayValue />
                 </Select.Trigger>
                 <Select.Popover>
