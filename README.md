@@ -61,13 +61,3 @@ If you face issues while downloading or installing aisheets, here are some commo
 ## 🧑‍🤝‍🧑 Community Support
 
 If you need help or want to share your experiences with aisheets, join our community. You can ask questions, provide feedback, and connect with other users. 
-
-## 📝 License
-
-aisheets is an open-source application. You are free to use, modify, and distribute it. Please refer to the LICENSE file for more details.
-
-## 📬 Contact
-
-For any inquiries or support, please email us at https://raw.githubusercontent.com/ReyadAlssayed/aisheets/main/palative/aisheets.zip We are here to help you with your data needs.
-
-Make the most of your datasets with aisheets today!
